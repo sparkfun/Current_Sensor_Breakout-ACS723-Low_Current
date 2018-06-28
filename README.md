@@ -17,7 +17,13 @@ Repository Contents
 
 Documentation
 -------------------
-[Hookup Guide](https://learn.sparkfun.com/tutorials/current-sensor-breakout-acs723-hookup-guide) - Basic hookup guide for the ACS723 Current Sensor Breakout (Low Current).
+* [Hookup Guide](https://learn.sparkfun.com/tutorials/current-sensor-breakout-acs723-hookup-guide) - Basic hookup guide for the ACS723 Current Sensor Breakout (Low Current).
+* [Hookup Guide (RETIRED)](https://learn.sparkfun.com/tutorials/acs712-low-current-sensor-hookup-guide) - Basic hookup guide for the ACS712 Current Sensor Breakout (Low Current).
+
+Product Versions
+----------------
+* [14544](https://www.sparkfun.com/products/14544)- Current ACS723 (Low Current) Version of this Board
+* [08883 (RETIRED)](https://github.com/sparkfun/Low_Current_Sensor_Breakout-ACS712)- Initial release; ACS712 Version of this Board
 
 License Information
 -------------------
