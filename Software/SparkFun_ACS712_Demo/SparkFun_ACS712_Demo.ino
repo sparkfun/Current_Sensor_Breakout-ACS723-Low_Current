@@ -5,7 +5,7 @@
     6/14/2018
 
     Uses an Arduino to set up the ACS712 and ACS723 Current Sensors
-    See the product page at: https://www.sparkfun.com/products/8883
+    See the tutorial at: https://learn.sparkfun.com/tutorials/current-sensor-breakout-acs723-hookup-guide
 
     Parts you may need:
     - 100 Ohm, 1/2W or greater resistor OR two 220 Ohm 1/4 resistors in parallel
@@ -82,7 +82,7 @@ void loop() {
    * to give a constant output voltage. Adjust the sensitivity by turning the
    * gain potentiometer.
    * 
-   * The sensitivity will be (Vreading - Vref)/(known current).
+   * The sensitivity will be (known current)/(Vreading - Vref).
    *************************************************************************************/
 
     /*************************************************************************************
