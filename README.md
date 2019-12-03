@@ -17,8 +17,8 @@ Repository Contents
 
 Documentation
 -------------------
-* [Hookup Guide](https://learn.sparkfun.com/tutorials/current-sensor-breakout-acs723-hookup-guide) - Basic hookup guide for the ACS723 Current Sensor Breakout (Low Current).
-* [Hookup Guide (RETIRED)](https://learn.sparkfun.com/tutorials/acs712-low-current-sensor-hookup-guide) - Basic hookup guide for the ACS712 Current Sensor Breakout (Low Current).
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/current-sensor-breakout-acs723-hookup-guide)** - Basic hookup guide for the ACS723 Current Sensor Breakout (Low Current).
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 
 Product Versions
 ----------------
