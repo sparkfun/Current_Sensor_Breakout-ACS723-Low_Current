@@ -1,7 +1,7 @@
 SparkFun Low Current Sensor Breakout Board - ACS723
 ======================================================
 
-![SparkFun Low Current Sensor Breakout Board - ACS723](https://cdn.sparkfun.com/assets/parts/1/2/6/6/7/14544-SparkFun_Current_Sensor_Breakout_-_ACS723__Low_Current_-01.jpg)
+[![SparkFun Low Current Sensor Breakout Board - ACS723](https://cdn.sparkfun.com/assets/parts/1/2/6/6/7/14544-SparkFun_Current_Sensor_Breakout_-_ACS723__Low_Current_-01.jpg)](https://www.sparkfun.com/products/14544)
 
 [*SparkFun Low Current Sensor Breakout Board - ACS723 (SEN-14544)*](https://www.sparkfun.com/products/14544) 
 
